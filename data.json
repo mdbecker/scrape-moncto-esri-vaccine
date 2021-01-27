@@ -405,10 +405,6 @@
         "City": "West Chester",
         "State": "PA",
         "Zip": "19380"
-      },
-      "geometry": {
-        "x": 39460,
-        "y": 64751
       }
     },
     {
@@ -451,10 +447,6 @@
         "City": "North Wales",
         "State": "PA",
         "Zip": "19454"
-      },
-      "geometry": {
-        "x": 78761,
-        "y": 34871
       }
     },
     {
@@ -497,10 +489,6 @@
         "City": "Horsham",
         "State": "PA",
         "Zip": "19044"
-      },
-      "geometry": {
-        "x": 83791,
-        "y": 36473
       }
     },
     {
@@ -543,10 +531,6 @@
         "City": "Roywersford",
         "State": "PA",
         "Zip": "19468"
-      },
-      "geometry": {
-        "x": 44412,
-        "y": 31316
       }
     },
     {
@@ -589,10 +573,6 @@
         "City": "Melrose Park",
         "State": "PA",
         "Zip": "19027"
-      },
-      "geometry": {
-        "x": 88885,
-        "y": 50806
       }
     },
     {
@@ -635,10 +615,6 @@
         "City": "Royersford",
         "State": "PA",
         "Zip": "19468"
-      },
-      "geometry": {
-        "x": 50159,
-        "y": 32043
       }
     },
     {
@@ -681,10 +657,6 @@
         "City": "Pottstown",
         "State": "PA",
         "Zip": "19465"
-      },
-      "geometry": {
-        "x": 33011,
-        "y": 28461
       }
     },
     {
@@ -727,10 +699,6 @@
         "City": "Meadowbrook",
         "State": "PA",
         "Zip": "19046"
-      },
-      "geometry": {
-        "x": 93988,
-        "y": 45987
       }
     },
     {
@@ -773,10 +741,6 @@
         "City": "East Norriton",
         "State": "PA",
         "Zip": "19403"
-      },
-      "geometry": {
-        "x": 66437,
-        "y": 39921
       }
     },
     {
@@ -819,10 +783,6 @@
         "City": "Langhorne",
         "State": "PA",
         "Zip": "19047"
-      },
-      "geometry": {
-        "x": 110018,
-        "y": 33317
       }
     },
     {
@@ -865,10 +825,6 @@
         "City": "Phoenixville",
         "State": "PA",
         "Zip": "19460"
-      },
-      "geometry": {
-        "x": 45995,
-        "y": 42708
       }
     },
     {
@@ -911,10 +867,6 @@
         "City": "North Wales",
         "State": "PA",
         "Zip": "19454"
-      },
-      "geometry": {
-        "x": 80929,
-        "y": 30224
       }
     },
     {
@@ -957,10 +909,6 @@
         "City": "Wynnewood",
         "State": "PA",
         "Zip": "19096"
-      },
-      "geometry": {
-        "x": 75054,
-        "y": 62678
       }
     },
     {
@@ -1003,10 +951,6 @@
         "City": "Paoli",
         "State": "PA",
         "Zip": "19301"
-      },
-      "geometry": {
-        "x": 49905,
-        "y": 55000
       }
     },
     {
@@ -1049,10 +993,6 @@
         "City": "Darby",
         "State": "PA",
         "Zip": "19023"
-      },
-      "geometry": {
-        "x": 74422,
-        "y": 71118
       }
     },
     {
@@ -1095,10 +1035,6 @@
         "City": "Sellersville",
         "State": "PA",
         "Zip": "18960"
-      },
-      "geometry": {
-        "x": 68244,
-        "y": 11067
       }
     },
     {
@@ -1141,10 +1077,6 @@
         "City": "Downingtown",
         "State": "PA",
         "Zip": "19335"
-      },
-      "geometry": {
-        "x": 31189,
-        "y": 58960
       }
     },
     {
@@ -1187,10 +1119,6 @@
         "City": "Elkins Park",
         "State": "PA",
         "Zip": "19027"
-      },
-      "geometry": {
-        "x": 91543,
-        "y": 51000
       }
     },
     {
@@ -1233,10 +1161,6 @@
         "City": "King of Prussia",
         "State": "PA",
         "Zip": "19406"
-      },
-      "geometry": {
-        "x": 59717,
-        "y": 49049
       }
     },
     {
@@ -1279,10 +1203,6 @@
         "City": "Philadelphia",
         "State": "PA",
         "Zip": "19122"
-      },
-      "geometry": {
-        "x": 85210,
-        "y": 62931
       }
     },
     {
@@ -1325,10 +1245,6 @@
         "City": "Chester",
         "State": "PA",
         "Zip": "19013"
-      },
-      "geometry": {
-        "x": 63886,
-        "y": 80780
       }
     },
     {
@@ -1371,10 +1287,6 @@
         "City": "Drexel Hill",
         "State": "PA",
         "Zip": "19026"
-      },
-      "geometry": {
-        "x": 72748,
-        "y": 67252
       }
     },
     {
@@ -1417,10 +1329,6 @@
         "City": "North Wales",
         "State": "PA",
         "Zip": "19454"
-      },
-      "geometry": {
-        "x": 75808,
-        "y": 30011
       }
     },
     {
@@ -1463,10 +1371,6 @@
         "City": "Philadelphia",
         "State": "PA",
         "Zip": "19139"
-      },
-      "geometry": {
-        "x": 75240,
-        "y": 66353
       }
     },
     {
@@ -1509,10 +1413,6 @@
         "City": "Philadelphia",
         "State": "PA",
         "Zip": "19125"
-      },
-      "geometry": {
-        "x": 88595,
-        "y": 65766
       }
     },
     {
@@ -1555,10 +1455,6 @@
         "City": "Bensalem",
         "State": "PA",
         "Zip": "19020"
-      },
-      "geometry": {
-        "x": 107548,
-        "y": 46920
       }
     },
     {
@@ -1601,10 +1497,6 @@
         "City": "Exton",
         "State": "PA",
         "Zip": "19341"
-      },
-      "geometry": {
-        "x": 35545,
-        "y": 54465
       }
     },
     {
@@ -1647,10 +1539,6 @@
         "City": "Morrisville",
         "State": "PA",
         "Zip": "19067"
-      },
-      "geometry": {
-        "x": 126124,
-        "y": 32154
       }
     },
     {
@@ -1693,10 +1581,6 @@
         "City": "Levittown",
         "State": "PA",
         "Zip": "19055"
-      },
-      "geometry": {
-        "x": 118558,
-        "y": 38951
       }
     },
     {
@@ -1739,10 +1623,6 @@
         "City": "Horsham",
         "State": "PA",
         "Zip": "19044"
-      },
-      "geometry": {
-        "x": 88355,
-        "y": 35992
       }
     },
     {
@@ -1785,10 +1665,6 @@
         "City": "Wynnewood",
         "State": "PA",
         "Zip": "19096"
-      },
-      "geometry": {
-        "x": 75612,
-        "y": 62495
       }
     },
     {
@@ -1831,10 +1707,6 @@
         "City": "Doylestown",
         "State": "PA",
         "Zip": "18901"
-      },
-      "geometry": {
-        "x": 87291,
-        "y": 19063
       }
     },
     {
@@ -1877,10 +1749,6 @@
         "City": "Horsham",
         "State": "PA",
         "Zip": "19044"
-      },
-      "geometry": {
-        "x": 87164,
-        "y": 35262
       }
     },
     {
@@ -1923,10 +1791,6 @@
         "City": "Norristown",
         "State": "PA",
         "Zip": "19401"
-      },
-      "geometry": {
-        "x": 67257,
-        "y": 44016
       }
     },
     {
@@ -1969,10 +1833,6 @@
         "City": "Coatsville",
         "State": "PA",
         "Zip": "19320"
-      },
-      "geometry": {
-        "x": 19923,
-        "y": 59694
       }
     },
     {
@@ -2015,10 +1875,6 @@
         "City": "Pottstown",
         "State": "PA",
         "Zip": "19464"
-      },
-      "geometry": {
-        "x": 38228,
-        "y": 27657
       }
     },
     {
@@ -2061,10 +1917,6 @@
         "City": "Elkins Park",
         "State": "PA",
         "Zip": "19027"
-      },
-      "geometry": {
-        "x": 89166,
-        "y": 50404
       }
     },
     {
@@ -2107,10 +1959,6 @@
         "City": "Croydon",
         "State": "PA",
         "Zip": "19021"
-      },
-      "geometry": {
-        "x": 112346,
-        "y": 48095
       }
     },
     {
@@ -2153,10 +2001,6 @@
         "City": "Blue Bell",
         "State": "PA",
         "Zip": "19422"
-      },
-      "geometry": {
-        "x": 72595,
-        "y": 37640
       }
     },
     {
@@ -2199,10 +2043,6 @@
         "City": "Norristown",
         "State": "PA",
         "Zip": "19401"
-      },
-      "geometry": {
-        "x": 67499,
-        "y": 44035
       }
     },
     {
@@ -2245,10 +2085,6 @@
         "City": "Philadelphia",
         "State": "PA",
         "Zip": "19133"
-      },
-      "geometry": {
-        "x": 88208,
-        "y": 61074
       }
     },
     {
@@ -2291,10 +2127,6 @@
         "City": "Philadelphia",
         "State": "PA",
         "Zip": "19130"
-      },
-      "geometry": {
-        "x": 85628,
-        "y": 65599
       }
     },
     {
@@ -2337,10 +2169,6 @@
         "City": "Marcus hook",
         "State": "PA",
         "Zip": "19061"
-      },
-      "geometry": {
-        "x": 58834,
-        "y": 85632
       }
     },
     {
@@ -2383,10 +2211,6 @@
         "City": "West Grove",
         "State": "PA",
         "Zip": "19390"
-      },
-      "geometry": {
-        "x": 9328,
-        "y": 85464
       }
     },
     {
@@ -2429,10 +2253,6 @@
         "City": "Bristol",
         "State": "PA",
         "Zip": "19007"
-      },
-      "geometry": {
-        "x": 116610,
-        "y": 46825
       }
     },
     {
@@ -2475,10 +2295,6 @@
         "City": "Philadelphia",
         "State": "PA",
         "Zip": "19122"
-      },
-      "geometry": {
-        "x": 86805,
-        "y": 64890
       }
     },
     {
@@ -2521,10 +2337,6 @@
         "City": "Lnaghorne",
         "State": "PA",
         "Zip": "19047"
-      },
-      "geometry": {
-        "x": 116295,
-        "y": 35611
       }
     },
     {
@@ -2567,10 +2379,6 @@
         "City": "Lansdale",
         "State": "PA",
         "Zip": "19446"
-      },
-      "geometry": {
-        "x": 74113,
-        "y": 26564
       }
     },
     {
@@ -2613,10 +2421,6 @@
         "City": "Lansdale",
         "State": "PA",
         "Zip": "19446"
-      },
-      "geometry": {
-        "x": 74113,
-        "y": 26564
       }
     },
     {
@@ -2659,10 +2463,6 @@
         "City": "Quakertown",
         "State": "PA",
         "Zip": "18951"
-      },
-      "geometry": {
-        "x": 63134,
-        "y": 0
       }
     },
     {
@@ -2705,10 +2505,6 @@
         "City": "East Norriton",
         "State": "PA",
         "Zip": "19401"
-      },
-      "geometry": {
-        "x": 69339,
-        "y": 41740
       }
     },
     {
@@ -2751,10 +2547,6 @@
         "City": "Chester",
         "State": "PA",
         "Zip": "19013"
-      },
-      "geometry": {
-        "x": 64790,
-        "y": 81240
       }
     },
     {
@@ -2797,10 +2589,6 @@
         "City": "Sellersville",
         "State": "PA",
         "Zip": "18960"
-      },
-      "geometry": {
-        "x": 70380,
-        "y": 12237
       }
     },
     {
@@ -2843,10 +2631,6 @@
         "City": "Kennett Square",
         "State": "PA",
         "Zip": "19348"
-      },
-      "geometry": {
-        "x": 26537,
-        "y": 82322
       }
     },
     {
@@ -2889,10 +2673,6 @@
         "City": "Pennsburg",
         "State": "PA",
         "Zip": "18074"
-      },
-      "geometry": {
-        "x": 51057,
-        "y": 7697
       }
     },
     {
@@ -2935,10 +2715,6 @@
         "City": "Levittown",
         "State": "PA",
         "Zip": "19055"
-      },
-      "geometry": {
-        "x": 122028,
-        "y": 41278
       }
     },
     {
@@ -2981,10 +2757,6 @@
         "City": "Pottstown",
         "State": "PA",
         "Zip": "19464"
-      },
-      "geometry": {
-        "x": 34651,
-        "y": 27337
       }
     },
     {
@@ -3027,10 +2799,6 @@
         "City": "Conshohocken",
         "State": "PA",
         "Zip": "19428"
-      },
-      "geometry": {
-        "x": 72293,
-        "y": 48051
       }
     },
     {
@@ -3073,10 +2841,6 @@
         "City": "Lansdowne",
         "State": "PA",
         "Zip": "19050"
-      },
-      "geometry": {
-        "x": 75824,
-        "y": 69717
       }
     },
     {
@@ -3119,10 +2883,6 @@
         "City": "Chester",
         "State": "PA",
         "Zip": "19013"
-      },
-      "geometry": {
-        "x": 61148,
-        "y": 83447
       }
     },
     {
@@ -3165,10 +2925,6 @@
         "City": "Coatsville",
         "State": "PA",
         "Zip": "19320"
-      },
-      "geometry": {
-        "x": 16442,
-        "y": 63318
       }
     },
     {
@@ -3211,10 +2967,6 @@
         "City": "Oxford",
         "State": "PA",
         "Zip": "19363"
-      },
-      "geometry": {
-        "x": 0,
-        "y": 89253
       }
     },
     {
@@ -3257,10 +3009,6 @@
         "City": "Norrsitown",
         "State": "PA",
         "Zip": "19401"
-      },
-      "geometry": {
-        "x": 69435,
-        "y": 41294
       }
     },
     {
@@ -3303,10 +3051,6 @@
         "City": "Collegeville",
         "State": "PA",
         "Zip": "19426"
-      },
-      "geometry": {
-        "x": 51844,
-        "y": 38548
       }
     },
     {
@@ -3349,10 +3093,6 @@
         "City": "North Wales",
         "State": "PA",
         "Zip": "19454"
-      },
-      "geometry": {
-        "x": 76760,
-        "y": 28273
       }
     },
     {
@@ -3395,10 +3135,6 @@
         "City": " Huntingdon Valley",
         "State": "PA",
         "Zip": "19006"
-      },
-      "geometry": {
-        "x": 95105,
-        "y": 37534
       }
     },
     {
@@ -3441,10 +3177,6 @@
         "City": "Warrington",
         "State": "PA",
         "Zip": "18976"
-      },
-      "geometry": {
-        "x": 88725,
-        "y": 29359
       }
     },
     {
@@ -3487,10 +3219,6 @@
         "City": "Warrington",
         "State": "PA",
         "Zip": "18976"
-      },
-      "geometry": {
-        "x": 88249,
-        "y": 28975
       }
     },
     {
@@ -3533,10 +3261,6 @@
         "City": "Warrington",
         "State": "PA",
         "Zip": "18976"
-      },
-      "geometry": {
-        "x": 88244,
-        "y": 28974
       }
     },
     {
@@ -3579,10 +3303,6 @@
         "City": "Perkasie",
         "State": "PA",
         "Zip": "18944"
-      },
-      "geometry": {
-        "x": 79552,
-        "y": 8414
       }
     },
     {
@@ -3625,10 +3345,6 @@
         "City": "Glen Mills",
         "State": "PA",
         "Zip": "19342"
-      },
-      "geometry": {
-        "x": 45648,
-        "y": 78144
       }
     }
   ]
