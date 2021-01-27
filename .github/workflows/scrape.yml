@@ -1,0 +1,41 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '12,27,42,57 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl 'https://services1.arcgis.com/kOChldNuKsox8qZD/arcgis/rest/services/Regional_COVID_Vaccine_Providers/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&outFields=*&maxRecordCountFactor=5&outSR=102100&resultOffset=0&resultRecordCount=5000&cacheHint=true&quantizationParameters=%7B%22mode%22%3A%22view%22%2C%22originPosition%22%3A%22upperLeft%22%2C%22tolerance%22%3A1.0583354500042266%2C%22extent%22%3A%7B%22xmin%22%3A-75.97549436399999%2C%22ymin%22%3A39.79424869200005%2C%22xmax%22%3A-74.77640519599998%2C%22ymax%22%3A40.443129671000065%2C%22spatialReference%22%3A%7B%22wkid%22%3A4326%2C%22latestWkid%22%3A4326%7D%7D%7D' \
+          -H 'authority: services1.arcgis.com' \
+          -H 'pragma: no-cache' \
+          -H 'cache-control: no-cache' \
+          -H 'sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"' \
+          -H 'sec-ch-ua-mobile: ?0' \
+          -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+          -H 'accept: */*' \
+          -H 'origin: https://montcopa.maps.arcgis.com' \
+          -H 'sec-fetch-site: same-site' \
+          -H 'sec-fetch-mode: cors' \
+          -H 'sec-fetch-dest: empty' \
+          -H 'referer: https://montcopa.maps.arcgis.com/apps/opsdashboard/index.html' \
+          -H 'accept-language: en-US,en;q=0.9' \
+          -H 'dnt: 1' \
+          -H 'sec-gpc: 1' \
+          --compressed | jq . > data.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
