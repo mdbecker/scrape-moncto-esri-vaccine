@@ -1,10 +1,7 @@
 {
   "error": {
-    "code": 499,
-    "message": "Token Required",
-    "messageCode": "GWM_0003",
-    "details": [
-      "Token Required"
-    ]
+    "code": 504,
+    "message": "Your request has timed out.",
+    "details": []
   }
 }
